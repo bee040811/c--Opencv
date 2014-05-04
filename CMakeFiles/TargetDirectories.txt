@@ -1,0 +1,1 @@
+/Users/bee040811/Downloads/opencv-2.4.8/samples/cpp/test/CMakeFiles/open_image_bee.dir
